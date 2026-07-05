@@ -1,0 +1,8 @@
+{
+  "label": "Wazuh",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Production guide for Wazuh"
+  }
+}
